@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello, I'm Steven 👋
 
-<!--
-**zteben/zteben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 3rd year Computer Science student at McGill University and dedicated coder with a focus on web development. Here's a brief overview of my experience:
 
-Here are some ideas to get you started:
+- 💻 Software Developer: Skilled in crafting robust applications and systems using Java and Python. Proficient in problem-solving, algorithms, and delivering high-quality code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Hackathon Enthusiast: Active participant in hackathons, collaborating effectively in fast-paced, innovative environments.
+
+- 🎮 Game Developer: Hobbyist game developer, exploring creative projects in my free time.
+
+I'm committed to continuous learning and growth in the tech industry. Feel free to explore my GitHub for coding samples and projects.
+
+Here are some of my other contributions:
+- https://github.com/Yuj7/Stryde
+- https://github.com/mahirul101/CookIt
+
+Let's connect and explore opportunities together! 🌟
