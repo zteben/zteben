@@ -1,4 +1,4 @@
-### Hello, I'm Steven 👋
+## Hello, I'm Steven 👋
 
 I'm a 3rd year Computer Science student at McGill University and dedicated coder with a focus on web development. Here's a brief overview of my experience:
 
